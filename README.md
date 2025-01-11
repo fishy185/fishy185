@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fishy185 :3
 - 🌱 I’m currently learning C++, Java, and Rust
-- 💞️ I’m looking to collaborate and develop on game mods ^w^
+- 💞️ I’m looking to collaborate on and develop game mods ^w^
 - 📫 How to reach me: I'm fishy185 on most platforms, the one I check most is discord
 - 😄 Pronouns: she/her >w<
 - ⚡ Fun fact: Jacksepticeye talked about me once on a podcast :O
